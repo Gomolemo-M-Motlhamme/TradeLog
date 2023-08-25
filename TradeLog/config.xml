@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\gomim\OneDrive\Desktop\Gomolemo M Motlhamme Dev Portfolio\Software Dev projects\Java Projects\TradeLog\dist\TradeLog.jar</jar>
+  <outfile>C:\Users\gomim\OneDrive\Desktop\Gomolemo M Motlhamme Dev Portfolio\Software Dev projects\Java Projects\TradeLog\TradeLog.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\gomim\OneDrive\Desktop\Gomolemo M Motlhamme Dev Portfolio\Software Dev projects\Java Projects\TradeLog\src\Assets\chart.ico</icon>
+  <singleInstance>
+    <mutexName>TradeLog.exe</mutexName>
+    <windowTitle>TradeLog.exe</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>JRE</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
