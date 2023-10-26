@@ -14,9 +14,6 @@ track of their trades.
 
 TradeLog also allows one to download their trade records as an Excel file.
 
-## Take Note
-This is only version 1 of TradeLog, more improvements/features will come, so will an official desktop application will be made.
-
-## Usage
+## Design
 ![Screenshot](images/image1.png)
 ![Screenshot](images/image2.png)
